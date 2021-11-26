@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\bin\Debug\BooksProcessWithADO-NET.exe.config
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\bin\Debug\BooksProcessWithADO-NET.exe
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\bin\Debug\BooksProcessWithADO-NET.pdb
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO-NET.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO_NET.Form1.resources
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO_NET.Properties.Resources.resources
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO-NET.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO-NET.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO-NET.exe
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO-NET.pdb
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO_NET.InsertBook.resources
+C:\Users\user\source\repos\BooksProcessWithADO-NET\BooksProcessWithADO-NET\obj\Debug\BooksProcessWithADO_NET.DeleteBooks.resources

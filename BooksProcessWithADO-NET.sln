@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksProcessWithADO-NET", "BooksProcessWithADO-NET\BooksProcessWithADO-NET.csproj", "{315E42F6-50FA-45ED-B60D-0EAEA51B4A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315E42F6-50FA-45ED-B60D-0EAEA51B4A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315E42F6-50FA-45ED-B60D-0EAEA51B4A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315E42F6-50FA-45ED-B60D-0EAEA51B4A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315E42F6-50FA-45ED-B60D-0EAEA51B4A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD6F8DE-CC87-4DF9-B817-9EE14BCD1D9D}
+	EndGlobalSection
+EndGlobal
